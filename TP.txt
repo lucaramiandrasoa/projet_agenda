@@ -1,0 +1,12 @@
+Ecrire un petit programme d’agenda où on peut trouver les fonctionnalités ajout, modification et suppression d’une liste de données.
+Le voici :
+Un candidat assiste à un ou plusieurs entretiens. Dans l’entretien, on y retrouve la date et heure du rendez-vous.
+On peut ajouter, lister, modifier et supprimer un rendez-vous.
+On doit trouver la liste des candidats qui assistent à un entretien dans le même jour ou peut être la même heure mais avec un lieu différent par exemple.
+
+Ce qu’on veut voir dans votre code, est-ce que vous écrivez proprement et suivent bien les normes et peut comprendre de ce que vous écrivez.
+
+Base de données : MySQL
+Pour les technologies vous êtes libre que ce soit du Framework PHP ou Javascript, vous êtes libre de choix
+
+A rendre ce vendredi 28/01/2022 avant 14h
